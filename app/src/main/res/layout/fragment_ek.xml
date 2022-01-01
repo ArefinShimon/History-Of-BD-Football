@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/o"
+    tools:context=".ek">
+
+    <!-- TODO: Update blank fragment layout -->
+
+ <LinearLayout
+     android:orientation="vertical"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     >
+
+
+
+
+     <ScrollView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:background="@drawable/o"
+         >
+
+         <LinearLayout
+             android:orientation="vertical"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             >
+             <ImageView
+                 android:layout_width="match_parent"
+                 android:layout_height="200dp"
+                 android:src="@drawable/ekf"
+                 >
+             </ImageView>
+
+         <TextView
+             android:background="#B6292828"
+             android:textColor="@color/white"
+             android:gravity="center"
+             android:textStyle="bold"
+             android:textSize="30dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="প্রাচীন গ্রিসের হারপাসটন নামক খেলা থেকেই মূলত ফুটবল খেলার উৎপত্তি।
+\nঐতিহাসিকদের মতে আধুনিক ফুটবলের প্রচলন ১২০০ শতাব্দীতে ইংল্যান্ডে।\n অর্থাৎ বর্তমান ফুটবলের বয়স প্রায় ৮০০ বছর।\n ফুটবল খেলার মাঠের পরিসর সাধারণত ১২০/৬০ গজ অর্থাৎ ৭২০০ বর্গগজের।\n বিশ্বের বিভিন্ন স্থানে ফুটবলের জনপ্রিয়তা বৃদ্ধি পেতে শুরু করে ১৮০০ শতাব্দীর শেষের দিক থেকে। \n স্কটল্যান্ড ও ইংল্যান্ডের মধ্যে ১৮৭২ সালে বিশ্বের প্রথম আন্তর্জাতিক ফুটবল খেলা অনুষ্ঠিত হয়েছিল এবং ১৮৮৪ সালে শুরু হওয়া ব্রিটিশ হোম চ্যাম্পিয়নশিপ ছিল বিশ্বের প্রথম আন্তর্জাতিক ফুটবল প্রতিযোগিতা। \n অলিম্পিকে প্রদর্শনী খেলা হিসেবে ফুটবল যুক্ত হয় ১৯০০ সালে এবং ১৯০৪ ও ১৯০৬ সালেও অলিম্পিকে ফুটবলকে প্রদর্শনী খেলা হিসেবে রাখা হয়।\n অবশেষে ১৯০৮ সালে অলিম্পিকের খেলা হিসেবে মর্যাদা পায় ফুটবল।
+"
+             >
+
+         </TextView>
+
+
+
+
+             <ImageView
+                 android:layout_width="match_parent"
+                 android:layout_height="200dp"
+                 android:src="@drawable/ekfff"
+
+                 >
+
+             </ImageView>
+
+
+
+
+             <TextView
+                 android:background="#B6292828"
+                 android:textColor="@color/white"
+                 android:gravity="center"
+                 android:textStyle="bold"
+                 android:textSize="30dp"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:text="ফিফা(Federation of International Football Association) এবং আইওসি’র(International Olympic Committee) মতবিরোধের কারনে ১৯৩২ সালের অলিম্পিক থেকে ফুটবলকে বাদ দেওয়ার সিদ্ধান্ত হয়। \nফলে তৎকালীন ফিফা প্রেসিডেন্ট জুলে রিমে'র উদ্যোগে উরুগুয়েতে ১৯৩০ সালে প্রথম বিশ্বকাপ প্রতিযোগিতার আয়োজন করা হয়।\n
+ নানা প্রতিকুলতা পেরিয়ে প্রথম বিশ্বকাপে ১৩টি দেশ অংশ অংশ নেয়। \nএরই ধারাবাহিকতায় চলছে বর্তমান সময়ের বিশ্বকাপ ফুটবল।
+"
+
+                 >
+
+             </TextView>
+         </LinearLayout>
+
+
+
+
+
+
+     </ScrollView>
+
+
+
+
+
+ </LinearLayout>
+
+
+</FrameLayout>
